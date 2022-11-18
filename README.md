@@ -12,7 +12,7 @@
 
 * 图片优化请前往： https://pic.guiboweb.com/
 
-+ 图片支持JPG与PNG 
++ 加盲水印的图片支持JPG与PNG 
 
 + 操作视频请参考： 
 
