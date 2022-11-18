@@ -14,7 +14,7 @@
 
 + 加盲水印的图片支持JPG与PNG 
 
-+ 操作视频请参考： 
++ 操作视频请参考： 链接: https://pan.baidu.com/s/1MkDVenAAUm68fknheerTRA?pwd=guib 提取码: guib 
 
 * 支持windows与mac版本，.app 为MAC版。 .exe 为windows版。
 
