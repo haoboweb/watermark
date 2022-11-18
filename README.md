@@ -16,6 +16,8 @@
 
 + 操作视频请参考： 
 
+* 支持windows与mac版本，.app 为MAC版。 .exe 为windows版。
+
 所有功能免费使用。
 
 ## 联系邮箱：913279025@qq.com
